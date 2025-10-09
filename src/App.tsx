@@ -158,7 +158,7 @@ function App() {
 
               {/* Social Links */}
               <div className="flex gap-4">
-                <a href="https://github.com/varunkkota" target="_blank" rel="noopener noreferrer" 
+                <a href="https://github.com/Varunkk24" target="_blank" rel="noopener noreferrer" 
                   className="text-gray-600 hover:text-black dark:text-gray-400 dark:hover:text-white transition-colors">
                   <Github size={24} />
                 </a>
@@ -592,8 +592,8 @@ function App() {
                   </div>
                   <div className="flex items-center gap-4">
                     <Github className="w-6 h-6 text-blue-600" />
-                    <a href="https://github.com/varunkkota" target="_blank" rel="noopener noreferrer">
-                      github.com/varunkkota
+                    <a href="https://github.com/Varunkk24" target="_blank" rel="noopener noreferrer">
+                      github.com/Varunkk24
                     </a>
                   </div>
                 </div>
