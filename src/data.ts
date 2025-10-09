@@ -93,7 +93,7 @@ export const projects = [
     description: 'Administered asynchronous job processing resulting in 60% improved throughput, by implementing Celery and Redis for parallel application processing with sub-500ms API latency with 95% uptime. Executed LLM-powered resume optimization leading to 40% higher ATS match rates, by utilizing Groq models with cosine similarity scoring algorithms.',
     image: '/logos/jar-app.png',
     technologies: ['CrewAI', 'Python', 'NextJS', 'FastAPI', 'Groq', 'Celery', 'Redis'],
-    github: 'https://github.com/Varunkk24/apply-ai',
+    github: 'https://github.com/Varunkk24',
     demo: null
   },
   {
@@ -101,7 +101,7 @@ export const projects = [
     description: 'Architected and developed a robust microservices application using Spring Boot, implementing an API Gateway, Kafka for asynchronous communication, and a polyglot persistence strategy with both MongoDB and MySQL. Engineered a scalable deployment workflow using Docker and Kubernetes for container orchestration, while leveraging the Grafana Stack (Prometheus, Loki, Tempo) for end-to-end monitoring, logging, and tracing.',
     image: '/logos/kubernetes-enterprise-app.png',
     technologies: ['Spring Boot', 'Kubernetes', 'Docker', 'Kafka', 'MongoDB', 'MySQL', 'Grafana', 'Prometheus'],
-    github: 'https://github.com/Varunkk24/enterprise-k8s-app',
+    github: 'https://github.com/Varunkk24',
     demo: null
   },
   {
@@ -109,7 +109,7 @@ export const projects = [
     description: 'Built an end-to-end data pipeline using Azure Data Factory, Data Lake Gen2, Databricks (PySpark), Synapse, and Power BI, improving data availability by 85% and reducing reporting lag by 70% through real-time processing and optimized transformations. Automated data ingestion, transformation, and reporting workflows, cutting manual effort by 90% and data processing time by 60%, while enabling business insights through interactive Power BI dashboards integrated with Synapse external tables.',
     image: '/logos/azure_pipeline.png',
     technologies: ['Azure Data Factory', 'Data Lake Gen2', 'Databricks', 'PySpark', 'Synapse', 'Power BI'],
-    github: 'https://github.com/Varunkk24/azure-data-pipeline',
+    github: 'https://github.com/Varunkk24',
     demo: null
   },
   {
@@ -117,7 +117,7 @@ export const projects = [
     description: 'Engineered an end-to-end RAG pipeline using Gemini 2.5 Flash for advanced text processing and summarization, and a Pinecone vector database for scalable semantic search across 4K medical records. Created a Streamlit chatbot with an enhanced retriever that combines semantic and keyword-based scoring for highly accurate responses, while also incorporating a query classifier for user safety.',
     image: '/logos/medical-ai-assistant.png',
     technologies: ['Gemini 2.5 Flash', 'Pinecone', 'Streamlit', 'RAG', 'Python', 'Vector Database'],
-    github: 'https://github.com/Varunkk24/medical-ai-assistant',
+    github: 'https://github.com/Varunkk24',
     demo: null
   }
 ];
